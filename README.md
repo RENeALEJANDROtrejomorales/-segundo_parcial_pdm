@@ -1,0 +1,4 @@
+# PDM-LvlUP
+Diseño para parcial 2 de la materia Programación de Dispositivos Móviles.
+Hacer Fork a este repositorio y ponerle a su repositorio segundo_parcial_pdm.
+(Nota: En los archivos encontraran comentarios útiles)
